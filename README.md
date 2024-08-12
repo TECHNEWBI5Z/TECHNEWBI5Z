@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mahammed_Faizan</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h1 align="center">Hello, I'm Mahammed_Faizan</h1>
+<h3 align="center">A Data Engineer / ETL Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technewbi5z&label=Profile%20views&color=0e75b6&style=flat" alt="technewbi5z" /> </p>
 
-- 🌱 I’m currently learning **azure cloud services**
+- I’m currently learning **azure cloud services**
 
-- 👯 I’m looking to collaborate on **cloud engineering projects**
+- I’m looking to collaborate on **cloud engineering projects**
 
-- 🤝 I’m looking for help with **Azure data engineers**
+- I’m looking for help with **Azure data engineers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TECHNEWBI5Z](https://github.com/TECHNEWBI5Z)
+- All of my projects are available at [https://github.com/TECHNEWBI5Z](https://github.com/TECHNEWBI5Z)
 
-- 💬 Ask me about **Cloud Computation, BigData Technologies**
+- Ask me about **Cloud Computation, BigData Technologies**
 
-- 📫 How to reach me **faizanscf@gmail.com**
+- How to reach me **faizanscf@gmail.com**
 
-- 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
+- Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-- ⚡ Fun fact **Academically a life science student, technically and professionally a Data Engineer**
+- Fun fact **Academically a life science student, technically and professionally a Data Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
