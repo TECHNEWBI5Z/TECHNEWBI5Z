@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=technewbi5z&label=Profile%20views&color=0e75b6&style=flat" alt="technewbi5z" /> </p>
 
-- I’m currently learning **Azure Cloud Services**
+- I’m currently working on **Azure Cloud Services**
 
 - I’m looking to collaborate on **Cloud Engineering projects**
 
