@@ -30,7 +30,7 @@
 <p align="center"> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="70" height="60"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Apache Hadoop" width="90" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noreferrer"> <img src="https://zeevector.com/wp-content/uploads/Azure-Data-Factory-Logo-SVG.png" alt="Azure Data Factory" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/605c9e03d6553a5d82976ce2/668301061a046a755e03a047_0_IOGNRnuhopjfGQzl.png" alt="Azure Data Factory" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-us/services/synapse-analytics/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/azure-synapse-analytics6078.jpg" alt="Azure Synapse Analytics" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-us/services/databricks/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAShWtzdo6zVrVEoV51RYWqvXZrZB2v_G7LOLZGN4e10vaGVlXnNhdxIaBp9BZoKgUiRQ&usqp=CAU" alt="Azure Databricks" width="60" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
